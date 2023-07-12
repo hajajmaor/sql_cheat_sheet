@@ -2,12 +2,14 @@
 
 ## Table of Contents
 
-[functions_vs_procedures.MD](/functions_vs_procedures.MD)
+- [queries.md](/queries.md)
 
-[functions.md](/functions.md)
+- [functions.md](/functions.md)
 
-[procedures.md](/procedures.md)
+- [procedures.md](/procedures.md)
 
-[queries.md](/queries.md)
+- [functions_vs_procedures.md](/functions_vs_procedures.md)
+
+- [table_commands.md](/table_commands.md)
 
 ### Written by [Maor Meir Hajaj](https://www.linkedin.com/in/maor-meir-hajaj/)
